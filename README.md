@@ -3,10 +3,6 @@
 <p align="center">
   <img src="https://github.com/vonbarown/Portfolio/blob/master/src/assets/logo.svg" width="256" title="personal logo">
 </p>
-
-<p>
-Hi There I'm Voniel Brown a Full Stack Web Developer in New York City 
- </p>
  
  <p>Check out these links to learn more</p>
  
